@@ -1,8 +1,8 @@
 # Spotify
-PROCESS-NAME,Spotify
-USER-AGENT,*Spotify*
-DOMAIN-SUFFIX,spoti.fi
-DOMAIN-SUFFIX,scdn.co
-DOMAIN-SUFFIX,spotify.com
-DOMAIN-KEYWORD,spotify
-DOMAIN-KEYWORD,spotify
+PROCESS-NAME,Spotify,proxy
+USER-AGENT,*Spotify*,proxy
+DOMAIN-SUFFIX,spoti.fi,proxy
+DOMAIN-SUFFIX,scdn.co,proxy
+DOMAIN-SUFFIX,spotify.com,proxy
+DOMAIN-KEYWORD,spotify,proxy
+DOMAIN-KEYWORD,spotify,proxy
